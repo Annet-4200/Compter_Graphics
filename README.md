@@ -1,1 +1,3 @@
-# Compter_Graphics
+# Computer_Graphics
+
+It's visualisation of 3D moving, rotation, reflection, scaling up\down
